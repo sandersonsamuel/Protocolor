@@ -3,11 +3,9 @@
     height: 100vh;
 }
 
-.hovered-text {
-    /* Adicione os estilos que deseja aplicar quando o mouse estiver sobre a imagem */
-    /* Por exemplo: */
-    letter-spacing: 3px;
-    /* Adicione outras propriedades CSS para o efeito desejado */
-  }
+#contMebros{
+    background: url("./assets/paper_texture.jpg");
+    background-size: 100%;
+}
   
   
