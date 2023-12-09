@@ -11,7 +11,7 @@
 @media screen and (max-width: 600px) {
     #contMebros{
         background: url("./assets/paper_texture_mobile.jpg");
-        background-size: 120%;
+        background-size: 150%;
     }
 }
   
